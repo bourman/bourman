@@ -1,7 +1,10 @@
+- ⭐ Name: Victor Bourman.
 - 🔧 Scripts: Python, Bash, Terraform.
 - 💻 Operating systems: Ubuntu, CentOS, Windows.
-- ☁️Clouds:Azure DevOps, Azuer portal, AWS, Oracle. 
-- Kubernetes, Ansible, Python, Bash, Git, Pipeline, Docker, Jenkins.
+- ☁️ Clouds:Azure DevOps, Azuer portal, AWS, Oracle.
+- 📡 Networking: Routing, ip , vlan, DNS, dhcp. http, NAT, vnet 
+- 🔃 Automation and management tools: Kubernetes, Docker,Jenkins, Azure Piplines.
+
 
 ![I am GitHub Readme Generator's creator](https://github.com/bourman/bourman/blob/main/images.png?raw=true)
 <!---
