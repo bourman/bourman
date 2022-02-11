@@ -1,3 +1,4 @@
+- 🌌 DevOps Engineer.
 - ⭐ Name: Victor Bourman.
 - 🔧 Scripts: Python, Bash, Terraform.
 - 💻 Operating systems: Ubuntu, CentOS, Windows.
