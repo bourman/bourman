@@ -1,3 +1,4 @@
+- 🔧 Scripts: Python, Bash, Terraform.
 - 💻 Operating systems: Ubuntu, CentOS, Windows.
 - ☁️Clouds:Azure DevOps, Azuer portal, AWS, Oracle. 
 - Kubernetes, Ansible, Python, Bash, Git, Pipeline, Docker, Jenkins
