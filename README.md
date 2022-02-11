@@ -1,5 +1,5 @@
 ![I am GitHub Readme Generator's creator](https://github.com/bourman/bourman/blob/main/images.png?raw=true)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BOURMAN)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BOURMAN&show_icons=true) 
 - 💻
 <!---
 bourman/bourman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
