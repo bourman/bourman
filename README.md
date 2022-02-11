@@ -1,4 +1,4 @@
-![VIC].(https://github.com/bourman/bourman/blob/main/images.png)
+![I am GitHub Readme Generator's creator](https://github.com/bourman/bourman/blob/main/images.png?raw=true)
 
 - 👋 Hi, I’m Victor Bourman
 - 👀 I’m interested in ...
