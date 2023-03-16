@@ -1,9 +1,9 @@
 - 🌌 DevOps Engineer.
 - ⭐ Name: Victor Bourman.
-- 🔧 Scripts: Python, Bash.
+- 🔧 Scripts: Python, Bash, PowerShell.
 - 💻 Operating Systems: Ubuntu, CentOS, Windows.
-- ☁️ Clouds: Azure DevOps, Azuer portal, AWS, Oracle.
-- 📡 Networking: Routing, Ip , Vlan, DNS, Dhcp. Gttp, NAT, Vnet.
+- ☁️ Clouds: Azure DevOps, Azure Portal, AWS, Oracle.
+- 📡 Networking: Routing, Ip , Vlan, DNS, Dhcp. Http, NAT, Vnet.
 - 🔃 Automation And Management Tools: Kubernetes, Docker,Jenkins, Azure Pipelines.
 
 
