@@ -2,9 +2,9 @@
 - ⭐ Name: Victor Bourman.
 - 🔧 Scripts: Python, Bash, PowerShell.
 - 💻 Operating Systems: Ubuntu, CentOS, Windows.
-- ☁️ Clouds: Azure DevOps, Azure Portal, AWS, Oracle.
-- 📡 Networking: Routing, Ip , Vlan, DNS, Dhcp. Http, NAT, Vnet.
-- 🔃 Automation And Management Tools: Kubernetes, Docker,Jenkins, Azure Pipelines.
+- ☁️ Clouds: AWS, Azure DevOps, Azure Portal, Oracle.
+- 📡 Networking: Routing, IP , VLAN, DNS, DHCP. HTTP, NAT, VNET.
+- 🔃 Automation And Management Tools: Kubernetes, Docker ,Jenkins , Azure Pipelines.
 
 
 ![I am GitHub Readme Generator's creator](https://github.com/bourman/bourman/blob/main/images.png?raw=true)
