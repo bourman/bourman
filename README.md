@@ -3,7 +3,7 @@
 - 🔧 Scripts: Python, Bash, PowerShell.
 - 💻 Operating Systems: Ubuntu, CentOS, Windows.
 - ☁️ Clouds: AWS, Azure DevOps, Azure Portal, Oracle.
-- 📡 Networking: Routing, IP , VLAN, DNS, DHCP. HTTP, NAT, VNET.
+- 📡 Networking: Routing, Ip , VLAN, DNS, DHCP. HTTP, NAT, VNET.
 - 🔃 Automation And Management Tools: Kubernetes, Docker ,Jenkins , Azure Pipelines.
 
 
